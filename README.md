@@ -8,13 +8,13 @@
 - 😎 I am curious, attentive and diligent
 - 👻 I can work alone or as part of a team
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="Artem Kiselev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/aaaa0)
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
