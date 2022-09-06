@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Kuzuru)
 
-## I'm a Fullstack and Game dev
+## I'm a Fullstack web developer
 - 💻 I love programming
 - 📖 I'm always learning new things for myself
 - 😎 I am curious, attentive and diligent
