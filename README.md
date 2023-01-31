@@ -23,5 +23,4 @@
 
 ### Contact me:
 
-[<img align="left" alt="Artem Kiselev | VK" width="22px" src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" />](https://vk.com/aaaa0)
 [<img align="left" alt="Artem Kiselev | Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />](mailto:kuzuru.dev@gmail.com)
